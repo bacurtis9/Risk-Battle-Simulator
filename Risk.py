@@ -1,3 +1,5 @@
+#Python Version 3.7.2
+
 import random
 
 #program will run until told to quit
